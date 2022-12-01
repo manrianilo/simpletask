@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    margin: 70px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+h2{
+    margin: 0px;
+}
+
+button{
+    border-radius: 4px;
+    background-color: #e9be68;
+    
+   
+}
+
+
+.item {
+    
+    background: black;
+    color: beige;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 4px;
+  
+}
+
+span{
+    color: #f2a918;
+}
+
+a{
+    color: rgb(102, 101, 101);
+    padding: 6px;
+    display: inline-block;
+    text-decoration: none;
+}
